@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="07d93a88-f2e6-4ac8-932e-88b210f7c116" name="discountcustompokertables.com" url="http://discountcustompokertables.com">
+        <fileTransfer host="discountcustompokertables.com" port="21" rootFolder="/www" password="dfd4dfd9dfdfdfd8dfccdfdedfc2dfcfdfcedfdfdfcedfcfdf9b" username="surferdude">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
